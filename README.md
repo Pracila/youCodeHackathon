@@ -1,6 +1,6 @@
 # 📦 MINDReMIND
 
-Description of the app ...
+Description of the app: Let us ReMind to Rewind 
 
 ## Demo App
 
