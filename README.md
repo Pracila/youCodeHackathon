@@ -1,6 +1,8 @@
 # 📦 MINDReMIND
 
-Description of the app ...
+Description of the app: MindReWind sends out notifications at random times reminding users to take a break, relax and unwind. 
+
+MindReWind: Let us ReMind to Unwind. 
 
 ## Demo App
 
